@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Math&display=swap');
+body{
+    font-family: 'STIX Two Math', serif;
+}
+/* container */
+
+.container{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.container-center{
+    max-width: 600px;
+    margin: auto;
+}
