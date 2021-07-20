@@ -7,6 +7,12 @@ body{
 hr{
     margin: 2rem 0rem;
 }
+
+/* spaces */
+.margin-md{
+    margin: 2rem;
+}
+
 :root{
     --primary-color: #6C63FF;
     --dark-gray:#687280;
@@ -24,8 +30,11 @@ hr{
 
 /* links */
 .link{
+    box-sizing: border-box;
     text-decoration: none;
     padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 .link-primary{
     background-color:var(--primary-color);
@@ -74,6 +83,7 @@ padding: 0rem 0.5rem;
 /* header */
 .pics{
     padding: 2rem;
+    padding-top: 5rem;
 }
 .pics .pics-img{
     max-width: 350px;
@@ -111,6 +121,10 @@ padding: 0rem 0.5rem;
 }
 .footer .link{
     color: white;
+}
+.footer .footer-header{
+    font-weight: bold;
+    font-size: large;
 }
 .footer ul{
     padding-inline-start: 0px;
