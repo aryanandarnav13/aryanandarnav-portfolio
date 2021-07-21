@@ -83,7 +83,7 @@ padding: 0rem 0.5rem;
 /* header */
 .pics{
     padding: 2rem;
-    padding-top: 5rem;
+    padding-top: 4rem;
 }
 .pics .pics-img{
     max-width: 350px;
@@ -105,6 +105,15 @@ padding: 0rem 0.5rem;
 }
 .section h1{
     text-align: center;
+   
+}
+.section .bh{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-size: 2rem;
+    text-decoration: none;
+    color: var(--primary-color);
    
 }
 .ow{
