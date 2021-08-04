@@ -102,14 +102,6 @@ padding: 0rem 0.5rem;
     text-align: center;
 
 }
-.pics .pics-heading2{
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-top: 0.5rem;
-    color: #469d89;
-    text-align: center;
-
-}
 .pics .pics-heading .heading-inverted{
     color: var(--yellow);
     
